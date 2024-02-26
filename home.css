@@ -1,0 +1,12 @@
+.img1{
+    height: 100%;
+    width: 100%;
+}
+#myCarousel{
+    margin-bottom: 3%;
+}
+.img2{
+    height: 300px;
+    border-radius: 5%;
+    width: 450px;
+}

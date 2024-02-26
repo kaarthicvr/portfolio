@@ -1,0 +1,32 @@
+.avatar{
+    height: 100px;
+    border-radius: 50%;
+    margin-left: 25;
+}
+.fs{
+    text-align: start;
+    width: 200px;
+    margin-left: 25px;
+    margin-top: 10px;
+    
+}
+.d{
+    margin: bottom 100px; ;
+}
+#yo{
+    position: relative;
+    float: right;
+}
+.bg1{
+    height: 300px;
+    width: fit-content;
+    
+}
+.bg2{
+    height: 550px;
+    margin-left: 25%;
+    border-radius: 10%;
+}
+.full{
+    background-image: linear-gradient(to bottom right, black,grey,white);
+}
